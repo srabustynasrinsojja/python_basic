@@ -1,0 +1,5 @@
+name = input("Enter your name? ")
+print("hello " + name)
+pounds_weight = input("Enter your weight in pounds? ")
+weight = .4535 * float(pounds_weight)
+print("your weight is " + str(weight))
