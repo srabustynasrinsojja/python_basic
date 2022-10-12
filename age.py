@@ -6,3 +6,5 @@ birth_year = input("enter your Birth year:")
 age = 2022 - int(birth_year)
 print("your age is " + str(age))
 print(type(age))
+
+#Comment Add for checking
